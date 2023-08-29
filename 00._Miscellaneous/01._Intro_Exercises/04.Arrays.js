@@ -16,7 +16,7 @@ console.log(letters[1]);
 
 const friends = [];
 
-friends.push("Daniel","Lasse","Anders");
+friends.push("Daniel", "Lasse", "Anders");
 
 
 console.log(friends);
@@ -44,7 +44,7 @@ const diet = ["tomato", "cucumber", "rocket"];
 
 // You are a programmer. In one line (one statement) insert hamburger, soda and pizza between the elements cucumber and rocket
 
-diet.splice(2,0, "hamburger", "soda", "pizza");
+diet.splice(2, 0, "hamburger", "soda", "pizza");
 console.log(diet);
 
 
